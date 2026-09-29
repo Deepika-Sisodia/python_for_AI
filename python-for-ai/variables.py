@@ -1,0 +1,7 @@
+name = "Alice"
+
+name 
+
+age = 25
+
+age
